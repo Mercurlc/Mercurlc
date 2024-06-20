@@ -26,7 +26,7 @@
 - 🎮 In my free time, **I play airsoft and do summer cottage**
 
 ## 📝About me:
-I am a machine learning and computer vision specialist, recently active in Kaggle competitions and hackathons. I work in the field of computer vision and document processing, creating and optimizing systems for automatic document handling and analysis, also developed a geoinformation system using **qgis**, **autocad** and **python**. I am open to new projects and opportunities, eager to collaborate on solutions, and ready to contribute my knowledge and experience to a team.
+I am a machine learning and computer vision specialist, recently active in **Kaggle competitions and hackathons**. I work in the field of computer vision and **document processing**, creating and optimizing systems for automatic document handling and analysis, also developed a geoinformation system using **qgis**, **autocad** and **python**. I am open to new projects and opportunities, eager to collaborate on solutions, and ready to contribute my knowledge and experience to a team.
 
 
 ## 💻Languages and Tools:
