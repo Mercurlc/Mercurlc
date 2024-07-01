@@ -28,6 +28,9 @@
 ## 📝About me:
 I am a machine learning and computer vision specialist, recently active in **Kaggle competitions and hackathons**. I work in the field of computer vision and **document processing**, creating and optimizing systems for automatic document handling and analysis, also developed a geoinformation system using **qgis**, **autocad** and **python**. I am open to new projects and opportunities, eager to collaborate on solutions, and ready to contribute my knowledge and experience to a team.
 
+## 🎯Hackathons and offline conferences:
+- LCT 2024 - Finalists of the 1st case. [Solution](https://github.com/Doster-d/SfAPAoMC)
+- Mirea intragroup hackathon - 1st place solo. [Solution(will be soon)](https://github.com)
 
 ## 💻Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
