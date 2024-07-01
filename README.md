@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Arefev Aleksander</a> 
+<h1 align="center">Hey, I'm Arefiev Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Machine Learning and Computer Vision engineer</h3>
 
